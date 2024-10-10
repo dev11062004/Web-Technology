@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Personal Profile</title>
+</head>
+<body>
+<h1>Dev Dadhania </h1>
+<p>Hello, My name is Dev. I am from Junagadh. I am currently studying in
+CSPIT-IT Department.</p>
+<h1>My Hobbies:</h1>
+<ol>
+<li>Sports</li>
+<li>Reading Comics</li>
+<li>Cycling</li>
+</ol>
+<h1>My Favorite Websites:</h1>
+<ul>
+<li><a href="https://www.google.com.com" target="_blank">Google</a></li>
+<li><a href="https://www.animetv.to" target="_blank">Anime</a></li>
+<li><a href="https://www.sports.com" target="_blank">Sports</a></li>
+</ul>
+</body>
+</html>
+
+<!-- Pr1  > 
